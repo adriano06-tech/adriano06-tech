@@ -13,7 +13,7 @@
       Banco de dados mysql
       Front-end em html, css, javascript e design com uso de bootstrap
    ## Mobile
-      Postando aplicativos feitos em Flutter para documentar meu aprendizado sobre o framework e da linguagem Dart em paralelo
+      Atualmente postando aplicativos feitos em Flutter para documentar meu aprendizado sobre o framework e da linguagem Dart em paralelo
    ## Banco de dados
       Estudando atualmente a linguagem SQL usando o banco de dados MYSQL
       
