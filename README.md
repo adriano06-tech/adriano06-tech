@@ -24,6 +24,7 @@
 
   # Certificações:  
    Python para DataScience: https://cursos.alura.com.br/user/adrianogomesoliveira06/degree-python-data-science-31955/certificate
+   SQL: https://cursos.alura.com.br/certificate/d50a8abc-58cf-4d4b-892f-2506136181aa
       
       
       
