@@ -8,7 +8,10 @@
       Para DataScience: Estudando a linguagem Python em paralelo com bibliotecas como Pandas e Numpy
       Para Machine Learning: Estudando a linguagem Python e a biblioteca SKLEARN
    ## Desenvolvimento web
-      Posto sistemas feitos com o back-end em Node.js, banco de dados mysql, e front-end em html, css, javascript e design com uso de bootstrap
+      Posto sistemas feitos com o
+      Back-end em Node.js
+      Banco de dados mysql
+      Front-end em html, css, javascript e design com uso de bootstrap
    ## Mobile
       Postando aplicativos feitos em Flutter para documentar meu aprendizado sobre o framework e da linguagem Dart em paralelo
    ## Banco de dados
