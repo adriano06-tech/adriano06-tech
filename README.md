@@ -5,12 +5,14 @@
     Estou atualmente estudando Flutter, Node, mas com foco maior em Python e SQL para me especializar em DataScience e Machine Learning
   # Estou documentando atualmente meu aprendizado em áreas de meu interesse como:
    ## Machine Learning e DataScience
-      Para DataScience: Estudando atualmente a linguagem SQL usando como banco de dados o MYSQL, estudando a linguagem Python e estudando bibliotecas como Pandas e Numpy
+      Para DataScience: Estudando a linguagem Python em paralelo com bibliotecas como Pandas e Numpy
       Para Machine Learning: Estudando a linguagem Python e a biblioteca SKLEARN
    ## Desenvolvimento web
       Posto sistemas feitos com o back-end em Node.js, banco de dados mysql, e front-end em html, css, javascript e design com uso de bootstrap
    ## Mobile
       Postando aplicativos feitos em Flutter para documentar meu aprendizado sobre o framework e da linguagem Dart em paralelo
+   ## Banco de dados
+      Estudando atualmente a linguagem SQL usando o banco de dados MYSQL
       
   # Como chegar a mim?
   Meu email: adrianogomesoliveira06@gmail.com
