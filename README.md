@@ -19,6 +19,7 @@
       
   # Como chegar a mim?
   Meu email: adrianogomesoliveira06@gmail.com
+  
   Meu linkedin: https://www.linkedin.com/in/adriano-gomes-oliveira-38a16420a/
 
   # Certificações que possuo:  
