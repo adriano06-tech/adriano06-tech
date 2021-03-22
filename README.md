@@ -22,7 +22,7 @@
   
   Meu linkedin: https://www.linkedin.com/in/adriano-gomes-oliveira-38a16420a/
 
-  # Certificações que possuo:  
+  # Certificações:  
     Python para DataScience: https://cursos.alura.com.br/user/adrianogomesoliveira06/degree-python-data-science-31955/certificate
       
       
