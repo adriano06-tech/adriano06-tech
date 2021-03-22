@@ -18,12 +18,12 @@
       Estudando atualmente a linguagem SQL usando o banco de dados MYSQL
       
   # Como chegar a mim?
-  Meu email: adrianogomesoliveira06@gmail.com
-  
-  Meu linkedin: https://www.linkedin.com/in/adriano-gomes-oliveira-38a16420a/
+   Meu email: adrianogomesoliveira06@gmail.com
+
+   Meu linkedin: https://www.linkedin.com/in/adriano-gomes-oliveira-38a16420a/
 
   # Certificações:  
-    Python para DataScience: https://cursos.alura.com.br/user/adrianogomesoliveira06/degree-python-data-science-31955/certificate
+   Python para DataScience: https://cursos.alura.com.br/user/adrianogomesoliveira06/degree-python-data-science-31955/certificate
       
       
       
