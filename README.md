@@ -2,7 +2,7 @@
   # Quais são meus interesses de estudo atualmente?
     Estou interessado atualmente em estudar DataScience e machine learning em geral
   # Oque estou estudando atualmente?
-    Estou atualmente estudando Flutter, Node, mas com foco maior em Python e SQL para me especializar em DataScience e MachineLearning
+    Estou atualmente estudando Flutter, Node, mas com foco maior em Python e SQL para me especializar em DataScience e Machine Learning
   # Estou documentando atualmente meu aprendizado em áreas de meu interesse como:
    ## Machine Learning e DataScience
       Para DataScience: Estudando atualmente a linguagem SQL usando como banco de dados o MYSQL, estudando a linguagem Python e estudando bibliotecas como Pandas e Numpy
