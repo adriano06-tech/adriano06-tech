@@ -23,11 +23,10 @@
    Meu linkedin: https://www.linkedin.com/in/adriano-gomes-oliveira-38a16420a/
 
   # Certificações:  
+   Todos os meus cursos na Alura: https://cursos.alura.com.br/user/adrianogomesoliveira06/fullCertificate/dbb67e353c40c08a7b3dfa4f6b102a41
+  
    Python para DataScience: https://cursos.alura.com.br/user/adrianogomesoliveira06/degree-python-data-science-31955/certificate
    
-   SQL: https://cursos.alura.com.br/certificate/d50a8abc-58cf-4d4b-892f-2506136181aa
-      
-      
       
 
 <!---
