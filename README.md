@@ -1,26 +1,7 @@
-# Olá, eu sou o Adriano Gomes Oliveira
-  # Quais são meus interesses de estudo atualmente?
-    Estou interessado atualmente em estudar DataScience e machine learning em geral
-  # Oque estou estudando atualmente?
-    Estou atualmente estudando Flutter, Node, mas com foco maior em Python e SQL para me especializar em DataScience e Machine Learning
-  # Estou documentando atualmente meu aprendizado em áreas de meu interesse como:
-   ## Machine Learning e DataScience
-      Para DataScience: Estudando a linguagem Python em paralelo com bibliotecas como Pandas e Numpy
-      Para Machine Learning: Estudando a linguagem Python e a biblioteca SKLEARN
-   ## Desenvolvimento web
-      Posto sistemas feitos com o
-      Back-end em Node.js
-      Banco de dados mysql
-      Front-end em html, css, javascript e design com uso de bootstrap
-   ## Mobile
-      Atualmente postando aplicativos feitos em Flutter para documentar meu aprendizado sobre o framework e da linguagem Dart em paralelo
-   ## Banco de dados
-      Estudando atualmente a linguagem SQL usando o banco de dados MYSQL
-
-  # Certificações:  
-   Todos os meus cursos na Alura: https://cursos.alura.com.br/user/adrianogomesoliveira06/fullCertificate/dbb67e353c40c08a7b3dfa4f6b102a41
-  
-   Python para DataScience: https://cursos.alura.com.br/user/adrianogomesoliveira06/degree-python-data-science-31955/certificate
+# Hi, I am Adriano
+  🔭 I’m currently learning Python for DataScience
+  🌱 Currently learning: Machine Learning and Python
+  📫 How to reach me: My Discord: WEARIERMARS06#6978
    
       
 
