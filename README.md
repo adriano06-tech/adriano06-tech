@@ -16,11 +16,6 @@
       Atualmente postando aplicativos feitos em Flutter para documentar meu aprendizado sobre o framework e da linguagem Dart em paralelo
    ## Banco de dados
       Estudando atualmente a linguagem SQL usando o banco de dados MYSQL
-      
-  # Como chegar a mim?
-   Meu email: adrianogomesoliveira06@gmail.com
-
-   Meu linkedin: https://www.linkedin.com/in/adriano-gomes-oliveira-38a16420a/
 
   # Certificações:  
    Todos os meus cursos na Alura: https://cursos.alura.com.br/user/adrianogomesoliveira06/fullCertificate/dbb67e353c40c08a7b3dfa4f6b102a41
