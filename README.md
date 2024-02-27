@@ -1,9 +1,4 @@
 # Hi, I am Adriano
-  🔭 I’m currently learning Python for DataScience
-  
-  🌱 Currently learning: Machine Learning and Python
-  
-  📫 How to reach me: My Discord: WEARIERMARS06#6978
    
       
 
